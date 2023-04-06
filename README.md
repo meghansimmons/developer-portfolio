@@ -2,9 +2,13 @@
 
 Lernantino's Portfolio was created to introduce the developer, showcase their applications and give contact information. The format and style uses HTML and CSS to produce a website that matches a mock-up provided.
 
+<img width="50%" alt="Lernantino_A" src="https://user-images.githubusercontent.com/128755783/230474617-db72ebeb-becd-4912-9512-d905a29ca32b.png">
+
+<img width="50%" alt="Lernantino_B" src="https://user-images.githubusercontent.com/128755783/230474772-d146af64-537c-42dd-93b4-b8397bc47385.png">
+
 ## Installation
 
-The application is accessible through any web browser.
+The application is accessible through any web browser at the following address: https://meghansimmons.github.io/developer-portfolio/
 
 ## Usage
 
