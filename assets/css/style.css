@@ -170,6 +170,13 @@ li{
 }
 
 /* ID Elements */
+#avatar {
+    height: 100px;
+    width: 100px;
+    margin-top: 15px;
+}
+
+
 #surf {
     height: 280px;
     width: 100%;
